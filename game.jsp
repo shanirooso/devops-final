@@ -1,4 +1,4 @@
-# Edited by Shani & Almog $Eliran
+# Edited by Shani & Almog 
 
 <%@ page import="java.util.ArrayList" %>
 <%--
